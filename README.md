@@ -1,7 +1,7 @@
-- 👋 Hi, I’m pwnnegi
-- 👀 I’m interested in website designing
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on javascript
+- 👋 Hi, I’m a frontend developer
+- 👀 I’m interested in web app developement
+- 🌱 I’m currently learning next js
+- 💞️ I’m looking to collaborate on react js
 - 📫 How to reach me pwnnegi095@gmail.com
 
 <!---
